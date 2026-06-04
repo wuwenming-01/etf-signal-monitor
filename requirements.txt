@@ -1,0 +1,1 @@
+akshare>=1.12.0pandas>=2.0.0numpy>=1.24.0matplotlib>=3.7.0
